@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL=file:///e%3A/kk/parkinson_voice_detection/requirements.txt
